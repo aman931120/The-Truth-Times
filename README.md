@@ -1,12 +1,42 @@
 # React + Vite
+# The Truth Times 📰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Truth Times is a dynamic and responsive news website that provides categorized news updates. Built using HTML, CSS, JavaScript, and Bootstrap, it delivers an interactive and user-friendly experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🔍 **Search Functionality:** Quickly find news articles by keywords.
+- 📑 **Categorized News:** Browse articles across Sports, Politics, Entertainment, Health, and Fitness.
+- 🎨 **Responsive Design:** Optimized for all screen sizes.
+- 🌍 **Trending & Global News:** Toggle between different news segments.
+- 📩 **Newsletter Subscription:** Stay updated with the latest news.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### Homepage
+![Homepage](image.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Search Functionality
+![Search](image.png)
+
+## 🛠️ Technologies Used
+- React
+- Bootstrap
+
+## 📌 Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/The-Truth-Times.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd The-Truth-Times
+   ```
+3. Open `index.html` in a browser.
+
+## 🌟 Contributing
+Feel free to fork this repository and enhance the project. Contributions are welcome!
+
+---
+
+✨ **Developed with passion!** ✨
+
