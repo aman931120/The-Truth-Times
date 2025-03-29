@@ -15,8 +15,6 @@ The Truth Times is a dynamic and responsive news website that provides categoriz
 ### Homepage
 ![Homepage](image.png)
 
-### Search Functionality
-![Search](image.png)
 
 ## 🛠️ Technologies Used
 - React
